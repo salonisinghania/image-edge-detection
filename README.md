@@ -51,5 +51,27 @@ This project implements multiple edge detection and image filtering techniques u
 - Displays results using `matplotlib`
 
 ---
+### 🖼️ Output  
+---
 
-Let me know if you’d like to add more filters or support grayscale images as well!
+#### 🔹 Extra Filter - Blur  
+![Blur](blur.png)  
+*Blur Filter Applied*
+
+#### 🔹 Extra Filter - Sharpen  
+![Sharpen](sharpen.png)  
+*Sharpen Filter Applied*
+
+#### 🔹 Laplace Edges - Laplace  
+![Laplace](laplace.png)  
+*Laplace Edge Detection*
+
+#### 🔹 Sobel Edges - SobelXY  
+![SobelXY](sobelxy.png)  
+*Sobel XY Edge Detection*
+
+#### 🔹 Canny Edges - Canny  
+![Canny](canny.png)  
+*Canny Edge Detection*
+
+
